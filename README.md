@@ -51,7 +51,7 @@ The test coverage covers:
 ## 📬 Postman Collection
 
 The duplicated Postman Collection can be accessed and imported using this link:
-👉 **[Duplicated Postman Collection Link](https://documenter.getpostman.com/view/9635212/2s847EQDzo)**
+👉 **[Duplicated Postman Collection Link](https://anujpokharel2engineer-3368495.postman.co/workspace/61104fd8-8fe0-405d-8e2a-07fe1dfacaac/collection/56337915-3c0ed417-9891-4949-984f-938a7dae360f?action=share&source=copy-link&creator=56337915)**
 
 ---
 
