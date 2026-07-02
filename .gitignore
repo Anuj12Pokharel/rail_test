@@ -1,0 +1,15 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore log files and temp files.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore pid files
+/tmp/pids
+
+# Ignore master key for credentials.
+/config/master.key
+/config/credentials.yml.enc
